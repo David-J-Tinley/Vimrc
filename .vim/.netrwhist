@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =6
+let g:netrw_dirhist_6='/Users/djt/Desktop/Web_Development_2023_Course/grid/10.2_Grid_Placement'
+let g:netrw_dirhist_5='/Users/djt/Desktop/Web_Development_2023_Course/flexbox/9.4_Flexbox_Pricing_Table_Project'
+let g:netrw_dirhist_4='/Users/djt/Desktop/Web_Development_2023_Course/flexbox'
+let g:netrw_dirhist_3='/Users/djt/Desktop/Web_Development_2023_Course'
+let g:netrw_dirhist_2='/Users/djt/Desktop/Web_Development_2023_Course/grid'
+let g:netrw_dirhist_1='/Users/djt/Desktop/Web_Development_2023_Course/grid/10.2_Grid_Placement'
+let g:netrw_dirhist_0='/Users/djt'
+let g:netrw_dirhist_9='/Users/djt/Desktop'
+let g:netrw_dirhist_8='/Users/djt/Desktop/Web_Development_2023_Course'
+let g:netrw_dirhist_7='/Users/djt/Desktop/Web_Development_2023_Course/grid'
