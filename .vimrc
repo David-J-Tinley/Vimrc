@@ -35,9 +35,9 @@ set noerrorbells
 set visualbell
 set wildmenu
 set showcmd
-set tabstop=4
-set shiftwidth=4
-set softtabstop=4
+set tabstop=2
+set shiftwidth=2
+set softtabstop=2
 set expandtab
 set autoindent
 set smartindent
@@ -60,13 +60,14 @@ set statusline+=\ File:
 set statusline+=\ %f
 set statusline+=%=
 set statusline+=%#Visual#
-set statusline+=Line:
+set statusline+=\ Line:
 set statusline+=\ %l/
 set statusline+=%L
 set statusline+=\ 
 set statusline+=%#DiffAdd#
 set statusline+=\ Percentage:
 set statusline+=\ %p%%
+set statusline+=\ 
 
 let mapleader= "\<Space>"
 let maplocalleader="\<Space>"
